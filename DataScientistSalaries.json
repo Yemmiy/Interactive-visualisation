@@ -1,0 +1,102 @@
+[
+ {
+   "Job Role": "Data Scientist",
+   "Sum of Salary": 166610017,
+   "Employment Type": "Full Time"
+ },
+ {
+   "Job Role": "Data Engineer",
+   "Sum of Salary": 161905849,
+   "Employment Type": "Full Time"
+ },
+ {
+   "Job Role": "Data Analyst",
+   "Sum of Salary": 151195437,
+   "Employment Type": "Full Time"
+ },
+ {
+   "Job Role": "ML Engineer",
+   "Sum of Salary": 133446590,
+   "Employment Type": "Full Time"
+ },
+ {
+   "Job Role": "BI Developer",
+   "Sum of Salary": 119415675,
+   "Employment Type": "Full Time"
+ },
+ {
+   "Job Role": "Data Architect",
+   "Sum of Salary": 107734850,
+   "Employment Type": "Full Time"
+ },
+ {
+   "Job Role": "AI Developer",
+   "Sum of Salary": 103403816,
+   "Employment Type": "Full Time"
+ },
+ {
+   "Job Role": "Data Scientist",
+   "Sum of Salary": 521000,
+   "Employment Type": "Contract"
+ },
+ {
+   "Job Role": "ML Engineer",
+   "Sum of Salary": 475969,
+   "Employment Type": "Contract"
+ },
+ {
+   "Job Role": "Data Scientist",
+   "Sum of Salary": 237078,
+   "Employment Type": "Part Time"
+ },
+ {
+   "Job Role": "Data Analyst",
+   "Sum of Salary": 213073,
+   "Employment Type": "Part Time"
+ },
+ {
+   "Job Role": "Data Analyst",
+   "Sum of Salary": 390000,
+   "Employment Type": "Contract"
+ },
+ {
+   "Job Role": "Data Engineer",
+   "Sum of Salary": 169956,
+   "Employment Type": "Part Time"
+ },
+ {
+   "Job Role": "AI Developer",
+   "Sum of Salary": 241000,
+   "Employment Type": "Part Time"
+ },
+ {
+   "Job Role": "ML Engineer",
+   "Sum of Salary": 159666,
+   "Employment Type": "Part Time"
+ },
+ {
+   "Job Role": "BI Developer",
+   "Sum of Salary": 130000,
+   "Employment Type": "Part Time"
+ },
+ {
+   "Job Role": "BI Developer",
+   "Sum of Salary": 317500,
+   "Employment Type": "Contract"
+ },
+ {
+  "Job Role": "AI Developer",
+  "Sum of Salary": 417500,
+  "Employment Type": "Contract"
+},
+{
+  "Job Role": "Data Engineer",
+  "Sum of Salary": 526500,
+  "Employment Type": "Contract"
+},
+{
+  "Job Role": "Data Architect",
+  "Sum of Salary": 279500,
+  "Employment Type": "Contract"
+}
+]
